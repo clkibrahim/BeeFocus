@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter Web iPhone 14",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug",
+      "deviceId": "chrome",
+      "args": [
+        "--web-browser-flag=--window-size=375,812",
+        "--web-browser-flag=--app"
+      ]
+    }
+  ]
+}
