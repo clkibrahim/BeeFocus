@@ -1,10 +1,10 @@
 # 🐝 BeeFocus - Çalışma Takip Uygulaması
 
 <p align="center">
-  <img src="BeeFocusClient/beefocus/assets/images/bee.png" alt="BeeFocus Logo" width="120"/>
+  <img src="https://private-user-images.githubusercontent.com/156241732/537160337-7cdc875f-d6af-4940-95e6-78ab5b71691d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg2NjY0MjksIm5iZiI6MTc2ODY2NjEyOSwicGF0aCI6Ii8xNTYyNDE3MzIvNTM3MTYwMzM3LTdjZGM4NzVmLWQ2YWYtNDk0MC05NWU2LTc4YWI1YjcxNjkxZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExN1QxNjA4NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zOWUxZGUzOWE2ZGMwNmQ3NzUzY2Y1MTBjYTMyYjg4MWZkZDdjODVjYWU0YWRmYTBlZTUyOWMwYzZmNGY4YTMxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.u3ZvZqIL5TZB-f7atWObCHVyLYggRwWk45kmTUwru8k" alt="BeeFocus Logo" width="120"/>
 </p>
-
-> **Öğrenciler için geliştirilmiş, çalışma sürelerini takip eden ve analiz eden tam kapsamlı bir uygulama.**
+Proje tanıtım videosu: https://drive.google.com/file/d/10qAwRobKwJIrgELTKM8G5y4CXc6820kJ/view?usp=sharing
+> **YKS öğrencileri için geliştirilmiş, çalışma sürelerini takip eden ve analiz eden tam kapsamlı bir uygulama.**
 
 BeeFocus, TYT/AYT/YDT sınavlarına hazırlanan öğrencilerin ders çalışma sürelerini takip etmelerine, pomodoro tekniği ile verimli çalışmalarına ve detaylı istatistiklerle ilerlemelerini görmelerine olanak tanır.
 
