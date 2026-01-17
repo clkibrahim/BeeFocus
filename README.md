@@ -298,7 +298,7 @@ npm run dev
 
 ## 👨‍💻 Geliştirici
 
-**İbrahim** - Ağ Tabanlı Programlama Dersi Projesi (2026)
+**İbrahim Çelik**
 
 ---
 
