@@ -12,10 +12,10 @@ BeeFocus, TYT/AYT/YDT sınavlarına hazırlanan öğrencilerin ders çalışma s
 
 ## 📁 Proje Yapısı
 
-Bu repo, **monorepo** yapısında 3 ayrı projeden oluşmaktadır:
+Bu repo, 3 ayrı projeden oluşmaktadır:
 
 ```
-BeeFocus/
+
 ├── BeeFocus/          # 🔧 Backend API (.NET 8)
 ├── BeeFocusClient/    # 📱 Mobil Uygulama (Flutter)
 └── BeeFocusWeb/       # 🌐 Web Dashboard (React + Vite)
@@ -54,7 +54,7 @@ BeeFocus/
 ### Her Modülün Katmanları (Clean Architecture)
 
 ```
-Module/
+BeeFocus.(Modül)/
 ├── Domain/           # Entity'ler ve iş kuralları
 ├── Application/      # CQRS (Commands/Queries), DTOs, Validators
 ├── Infrastructure/   # Repository implementasyonları, servisler
@@ -157,7 +157,6 @@ lib/
 #### ⏱️ Timer (Ana Özellik)
 - **Pomodoro Modu**: Geri sayım ile çalışma (25dk, 50dk vb.)
 - **Kronometre Modu**: Serbest süre çalışma
-- **Animasyonlu Arı**: Çalışma sırasında hareket eden arı ikonu
 - **Ders Seçimi**: Hangi ders için çalışıldığını kaydetme
 
 #### 📊 Raporlar
