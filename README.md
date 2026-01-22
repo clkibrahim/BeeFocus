@@ -1,9 +1,6 @@
 #  BeeFocus - Çalışma Takip Uygulaması
 
 
-## 🎥 Proje Tanıtım Videosu
-▶️ https://drive.google.com/file/d/10qAwRobKwJIrgELTKM8G5y4CXc6820kJ/view?usp=sharing
-
 ## 🔗 Proje Repository Linkleri
 - **Backend (API)**: https://github.com/clkibrahim/BeefocusServer  
 - **Web Dashboard**: https://github.com/clkibrahim/BeefocusWeb  
